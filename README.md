@@ -1,7 +1,7 @@
 # DataSquares — Issue Tracker
 
 Public issue tracker for **DataSquares**, a business intelligence and analytics platform — dashboards, reports, and data pipelines — available on Web, Android, and iOS.
-**Live app:** https://app.datasquares.ai
+**Live app:** https://app.datasquares.ai · **API:** https://api.datasquares.ai · **Docs:** https://docs.datasquares.ai
 
 > **This repository is for issue tracking only.** It contains no source code — DataSquares is a closed-source product. Pull requests cannot be accepted here.
 
