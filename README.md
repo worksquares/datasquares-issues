@@ -11,6 +11,8 @@ Public issue tracker for **DataSquares**, a business intelligence and analytics 
 
 Please use the issue forms; they ask for the details we need to help you quickly.
 
+**New to GitHub issues?** Follow the [step-by-step guide with screenshots](docs/filing-issues.md).
+
 ### Screenshots and recordings
 
 Images and short screen recordings help a lot — paste or drag-and-drop them straight into the form. **This is a public repository: please redact any sensitive data** (names, emails, financial figures, tokens) from screenshots and logs before attaching.
